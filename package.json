@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://https://miss-priyankamishra.github.io/DocumentScanner/",
+    "homepage": "https://miss-priyankamishra.github.io/DocumentScanner/",
     "start": "vite"
   },
   "dependencies": {
